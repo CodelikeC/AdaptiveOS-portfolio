@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Adaptive AI",
+    "description": "Self-adapting AI for dynamic environments.",
+    "link": "/projects/adaptive-ai"
+  },
+  {
+    "id": "2",
+    "title": "IBCS",
+    "description": "Integrated Business Control System for streamlined operations.",
+    "link": "/projects/ibcs"
+  },
+  {
+    "id": "3",
+    "title": "AI for Drivers",
+    "description": "AI-powered solutions for driver safety.",
+    "link": "/projects/aifordriver"
+  },
+  {
+    "id": "4",
+    "title": "Introspective OS",
+    "description": "An OS with self-awareness and optimization.",
+    "link": "/projects/introspective-os"
+  }
+]
