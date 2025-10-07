@@ -1,6 +1,6 @@
-import { ProjectCard } from '../../components/ProjectCard';
-import { Navbar } from '../../components/Navbar';
-import { Footer } from '../../components/Footer';
+import {ProjectCard}  from '../../components/project_card';
+import Navbar  from '../../components/Navbar';
+import Footer  from '../../components/Footer';
 import projects from '../../data/projects.json';
 
 export default function Projects() {

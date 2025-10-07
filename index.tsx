@@ -1,7 +1,7 @@
-import { VisionHeader } from '../components/VisionHeader';
-import { QuoteBlock } from '../components/QuoteBlock';
-import { Navbar } from '../components/Navbar';
-import { Footer } from '../components/Footer';
+import VisionHeader  from '../components/VisionHeader';
+import QuoteBlock  from '../components/QuoteBlock';
+import Navbar  from '../components/Navbar';
+import Footer from '../components/Footer';
 
 export default function Home() {
   return (

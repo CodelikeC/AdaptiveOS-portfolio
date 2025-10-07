@@ -1,6 +1,6 @@
-import { Navbar } from '../components/Navbar';
-import { Footer } from '../components/Footer';
-import { QuoteBlock } from '../components/QuoteBlock';
+import Navbar  from '../components/Navbar';
+import Footer  from '../components/Footer';
+import QuoteBlock  from '../components/QuoteBlock';
 
 export default function Philosophy() {
   return (
