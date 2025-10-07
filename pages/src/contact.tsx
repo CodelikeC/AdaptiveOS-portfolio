@@ -1,5 +1,5 @@
-import Navbar  from '@/components/Navbar';
-import Footer  from '@/components/Footer';
+import Navbar  from '../components/Navbar';
+import Footer  from '../components/Footer';
 
 export default function Contact() {
   return (
@@ -11,7 +11,7 @@ export default function Contact() {
           Connect with us on social media or send an email to collaborate!
         </p>
         <div className="mt-6">
-          <a href="https://x.com/yourprofile" className="text-blue-500">X Profile</a>
+          <a href="https://x.com/NguyncT09972002" className="text-blue-500">X Profile</a>
         </div>
       </main>
       <Footer />
