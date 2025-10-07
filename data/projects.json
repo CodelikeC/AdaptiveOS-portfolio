@@ -3,24 +3,30 @@
     "id": "1",
     "title": "Adaptive AI",
     "description": "Self-adapting AI for dynamic environments.",
-    "link": "/projects/adaptive-ai"
+    "link": "https://github.com/CodelikeC/AdaptiveAI-"
   },
   {
     "id": "2",
     "title": "IBCS",
-    "description": "Integrated Business Control System for streamlined operations.",
-    "link": "/projects/ibcs"
+    "description": "Introspective Behavioral Compiler System (IBCS) is an experimental Meta-AI Compiler framework that transforms high-level cognitive constructs—concepts, intentions, questions, and real-time perceptions—into explainable and executable machine behaviors.",
+    "link": "https://github.com/CodelikeC/IBCS"
   },
   {
     "id": "3",
     "title": "AI for Drivers",
     "description": "AI-powered solutions for driver safety.",
-    "link": "/projects/aifordriver"
+    "link": "https://github.com/CodelikeC/AIForDriver"
   },
   {
     "id": "4",
-    "title": "Introspective OS",
+    "title": "Adaptive OS",
     "description": "An OS with self-awareness and optimization.",
-    "link": "/projects/introspective-os"
+    "link": "https://github.com/CodelikeC/AdaptiveOS"
+  }, 
+  {
+    "id": "5",
+    "title": "Driver Instropective Proxy",
+    "description": "DriverInstrospectiveProxy is an experimental project that explores the integration of AI into the kernel/driver space—where introspection, real-time responsiveness, and low-level security are critical.",
+    "link": "https://github.com/CodelikeC/DriverInstrospectiveProxy"
   }
 ]
