@@ -1,7 +1,7 @@
-import Timeline  from '../components/Timeline';
-import Navbar from '../components/Navbar';
-import Footer from '../components/Footer';
-import timelineData from '../data/timeline.json';
+import Timeline  from './components/Timeline'
+import Navbar from './components/Navbar'
+import Footer from './components/Footer'
+import timelineData from './data/timeline'
 
 export default function TimelinePage() {
   return (
