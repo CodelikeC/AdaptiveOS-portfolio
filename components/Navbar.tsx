@@ -5,8 +5,8 @@ export default function Navbar(){
       {/* Logo + tên thương hiệu */}
       <div className="flex items-center gap-4">
         <Image
-          src="/logo.png"              // 📁 nằm trong public/
-          alt="Adaptive AI Logo"
+          src="/Adaptive OS.png"              // 📁 nằm trong public/
+          alt="Adaptive OS Logo"
           width={40}
           height={40}
           className="rounded-md shadow-sm hover:opacity-90 transition-opacity"
