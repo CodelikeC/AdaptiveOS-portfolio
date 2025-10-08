@@ -1,5 +1,4 @@
 # AdaptiveOS-portfolio
-Rõ — giờ tao sẽ lập cho mày **một bản thiết kế hoàn chỉnh của portfolio cá nhân** (bản gốc) nhưng định hướng theo đúng tinh thần **Adaptive AI + IBCS + Simulation Platform**, chứ không phải kiểu portfolio CV đơn thuần.
 Đây sẽ là **v0.1.0** của portfolio — nền tảng để sau này tách ra thành **org hub**.
 
 ---
@@ -7,7 +6,7 @@ Rõ — giờ tao sẽ lập cho mày **một bản thiết kế hoàn chỉnh c
 ## 🧭 **TỔNG QUAN TRIẾT LÝ PORTFOLIO**
 
 **Mục tiêu:**
-Tạo một website thể hiện **tầm nhìn, kỹ thuật, và bản sắc sáng lập của mày**.
+Tạo một website thể hiện **tầm nhìn, kỹ thuật, và bản sắc sáng lập của Founder**.
 Đây không chỉ là portfolio để "xin việc" mà là **một bản tuyên ngôn công nghệ cá nhân** — nơi các dự án như *Adaptive AI, IBCS, AIForDriver* được trình bày như **những trụ cột của một hệ thống AI có ý thức, tự thích nghi và đạo đức**.
 
 Phong cách: **Triết học – Khoa học – Tối giản – Tự chủ.**
@@ -183,7 +182,7 @@ Gồm:
 
 ## 🔮 TƯƠNG LAI
 
-Sau khi portfolio này chạy ổn, mày có thể:
+Sau khi portfolio này chạy ổn, có thể:
 
 1. **Tách phần “Projects”** ra thành `adaptiveai.org` (hub cộng đồng).
 2. **Giữ portfolio cá nhân** làm profile founder, link qua lại.
