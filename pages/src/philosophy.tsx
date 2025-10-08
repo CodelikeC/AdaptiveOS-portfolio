@@ -10,7 +10,7 @@ export default function Philosophy() {
         <h1 className="text-4xl font-bold mb-6">Our Philosophy</h1>
         <QuoteBlock 
           quote="Technology should amplify human potential, not replace it."
-          author="Your Name"
+          author="Nguyen Duc Tri"
         />
         <p className="text-lg mt-6">
           Our approach combines innovation with ethics, focusing on sustainable AI solutions.
