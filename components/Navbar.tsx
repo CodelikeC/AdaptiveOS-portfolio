@@ -1,9 +1,20 @@
+import Image from 'next/image'
 export default function Navbar(){
   return (
     <nav className="w-full max-w-6xl mx-auto px-6 py-6 flex items-center justify-between">
+      {/* Logo + tên thương hiệu */}
       <div className="flex items-center gap-4">
-        <div className="w-10 h-10 rounded-md bg-gradient-to-br from-slate-800 to-slate-700 flex items-center justify-center text-white font-semibold">TN</div>
-        <div className="text-gray-200 text-sm">Tri ND — Adaptive Systems</div>
+        <Image
+          src="/logo.png"              // 📁 nằm trong public/
+          alt="Adaptive AI Logo"
+          width={40}
+          height={40}
+          className="rounded-md shadow-sm hover:opacity-90 transition-opacity"
+          priority
+        />
+        <div className="text-gray-200 text-sm">
+          Tri ND — Adaptive Systems
+        </div>
       </div>
       <div className="flex items-center gap-4 text-sm">
         <a href="#projects" className="text-gray-300 hover:text-white">Projects</a>
