@@ -3,10 +3,10 @@ import Link from "next/link"
 
 export default function Footer() {
   const projects = [
-    { src: "/adaptive-ai.png", alt: "Adaptive AI" },
-    { src: "/ibcs.png", alt: "IBCS" },
+    { src: "/AdaptiveAI.png", alt: "Adaptive AI" },
+    { src: "/ibcs.jpg", alt: "IBCS" },
     { src: "/aifordriver.png", alt: "AI for Driver" },
-    { src: "/introspective-os.png", alt: "Introspective OS" },
+    { src: "/adaptive OS.png", alt: "Adaptive OS" },
     { src: "/platform.png", alt: "Platform" },
   ]
 
