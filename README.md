@@ -84,9 +84,9 @@ Hiển thị grid 4–5 project cards.
 | Project                                             | Description                                                     | Status             |
 | --------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
 | **Adaptive AI**                                     | The foundation of introspective and self-adaptive intelligence. | v0.2.0 pre-release |
-| **IBCS (Introspective Behavioral Compiler System)** | A simulation and reasoning compiler for behavioral cognition.   | in progress        |
+| **IBCS (Introspective Behavioral Compiler System)** | A simulation and reasoning compiler for behavioral cognition.   | v0.2.0 pre-release |
 | **AIForDriver**                                     | Applied AI for safety and real-time context reasoning.          | concept            |
-| **Adaptive OS**                                     | Root-level protection layer & behavior orchestration.           | early research     |
+| **Adaptive OS**                                     | Root-level protection layer & behavior orchestration.           | v0.1.0 pre-release |
 
 → mỗi card có nút “View Project”.
 
